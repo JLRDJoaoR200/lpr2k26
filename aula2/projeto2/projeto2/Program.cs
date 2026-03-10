@@ -1,0 +1,10 @@
+﻿Console.WriteLine("insira o número A: ");
+int numA = int.Parse(Console.ReadLine()!);
+Console.WriteLine("insira o número B: ");
+int numB = int.Parse(Console.ReadLine()!);
+Console.WriteLine("insira o número C: ");
+int numC = int.Parse(Console.ReadLine()!);
+Console.WriteLine("insira o número D: ");
+int numD = int.Parse(Console.ReadLine()!);
+int diferenca = (numA * numB) - (numC * numD);
+Console.WriteLine($"a diferença é; {diferenca}");

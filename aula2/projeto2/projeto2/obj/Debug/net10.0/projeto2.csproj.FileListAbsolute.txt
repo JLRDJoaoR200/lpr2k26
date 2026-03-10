@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\bin\Debug\net10.0\projeto2.exe
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\bin\Debug\net10.0\projeto2.deps.json
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\bin\Debug\net10.0\projeto2.runtimeconfig.json
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\bin\Debug\net10.0\projeto2.dll
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\bin\Debug\net10.0\projeto2.pdb
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.dll
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\refint\projeto2.dll
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.pdb
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\projeto2.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Área de Trabalho\lpr2k26\aula2\projeto2\projeto2\obj\Debug\net10.0\ref\projeto2.dll
