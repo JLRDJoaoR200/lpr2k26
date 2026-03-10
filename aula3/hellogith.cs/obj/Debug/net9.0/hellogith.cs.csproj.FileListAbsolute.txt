@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\bin\Debug\net9.0\hellogith.cs.exe
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\bin\Debug\net9.0\hellogith.cs.deps.json
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\bin\Debug\net9.0\hellogith.cs.runtimeconfig.json
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\bin\Debug\net9.0\hellogith.cs.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\bin\Debug\net9.0\hellogith.cs.pdb
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.sourcelink.json
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\refint\hellogith.cs.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.pdb
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\hellogith.cs.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula3\hellogith.cs\obj\Debug\net9.0\ref\hellogith.cs.dll
